@@ -1,0 +1,1 @@
+## This is the GIG group public npm package
